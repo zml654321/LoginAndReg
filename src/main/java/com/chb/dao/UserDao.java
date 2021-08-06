@@ -1,5 +1,6 @@
 package com.chb.dao;
 
+import com.chb.entity.User;
 import org.apache.ibatis.annotations.Param;
 
 public interface UserDao {
